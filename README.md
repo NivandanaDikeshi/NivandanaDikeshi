@@ -16,7 +16,8 @@ I am an undergraduate Software Engineer at Sri Lanka Technological Campus (SLTC)
 
 With a keen eye for design and a love for clean, maintainable code, I continuously strive to learn and apply modern technologies to create elegant, user-friendly solutions. My academic and personal projects have provided hands-on experience in developing responsive web and mobile applications, strengthening both my technical and problem-solving abilities.
 
-<h3 align="left">Connect with me:</h3>
+### 🤝 Connect with me:
+
 <p align="left">
 <a href="https://linkedin.com/in/nivandana-dikeshi">
  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
@@ -155,15 +156,23 @@ With a keen eye for design and a love for clean, maintainable code, I continuous
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nivandanadikeshi&show_icons=true&locale=en&layout=compact" alt="nivandanadikeshi" /></p>
+<p>
+  <img align="left"
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NivandanaDikeshi&layout=compact" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nivandanadikeshi&show_icons=true&locale=en" alt="nivandanadikeshi" /></p>
+<p>
+  <img align="center"
+    src="https://github-readme-stats-one-bice.vercel.app/api?username=NivandanaDikeshi&show_icons=true" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nivandanadikeshi&" alt="nivandanadikeshi" /></p>
+<p>
+  <img align="center"
+    src="https://streak-stats.demolab.com?user=NivandanaDikeshi" />
+</p>
 
 
-
-### 🌟 Fun Fact  
+### 🌟 Fun Fact:  
 When I'm not coding, you’ll find me exploring LinkedIn, diving into space tech, or binge-watching sci-fi shows.  
 I'm all about **balancing tech with creativity!** ✨  
 
