@@ -168,7 +168,7 @@ With a keen eye for design and a love for clean, maintainable code, I continuous
 
 <p>
   <img align="center"
-    src="https://streak-stats.demolab.com?user=NivandanaDikeshi" />
+    src="https://streak-stats.demolab.com?user=nivandanadikeshi" />
 </p>
 
 
