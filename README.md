@@ -1,7 +1,7 @@
 # 🌟 Hey there! I'm Nivandana Dikeshi 🌟
 
 <h3 align="center">
-  ✨ Undergraduate Software Engineer | 💻 Aspiring Associate Software Developer <br>
+  ✨ Graduated Software Engineer | 💻 Aspiring Associate Software Developer <br>
   🎨 Full Stack & UI/UX Enthusiast
 </h3>
 
@@ -11,7 +11,7 @@
  <img src="https://komarev.com/ghpvc/?username=nivandanadikeshi&label=Profile%20views&color=0e75b6&style=flat" alt="nivandanadikeshi" />
 </p>
 
-I'm a final-year Software Engineering student who thrives on curiosity, loves building meaningful projects, and is always eager to learn more. 🚀
+I'm a graduated Software Engineer who thrives on curiosity, loves building meaningful projects, and is always eager to learn more. 🚀
 I am an undergraduate Software Engineer at Sri Lanka Technological Campus (SLTC) with a strong passion for Full Stack Development and UI/UX Design. I’m currently seeking Associate Software Developer opportunities where I can apply my technical knowledge, expand my skills, and contribute to real-world projects.
 
 With a keen eye for design and a love for clean, maintainable code, I continuously strive to learn and apply modern technologies to create elegant, user-friendly solutions. My academic and personal projects have provided hands-on experience in developing responsive web and mobile applications, strengthening both my technical and problem-solving abilities.
